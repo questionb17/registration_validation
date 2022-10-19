@@ -7,4 +7,6 @@ function subscribe(){
     mail.innerHTML="Please enter your email";
     name.style.color="red";
     mail.style.color="red";
+    username.style.border="red 1px solid";
+    email.style.border="red 1px solid";
 }
