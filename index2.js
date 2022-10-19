@@ -8,7 +8,3 @@ function subscribe(){
     name.style.color="red";
     mail.style.color="red";
 }
-
-if(username>=){
-
-}
